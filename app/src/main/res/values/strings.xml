@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="title_kanade_tachibana">Kanade Tachibana</string>
+    <string name="best_character_ever">best character ever</string>
+</resources>
